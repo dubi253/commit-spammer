@@ -8,7 +8,7 @@
     <a href="#日本語">日本語</a>
   </p>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=dubi253&show_icons=true&hide=issues&include_all_commits=true&theme=radical" alt="GitHub Stats" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dubi253&show_icons=true&include_all_commits=true&theme=transparent&count_private=true" alt="GitHub Stats" width="500" />
 </div>
 
 ---
